@@ -1,0 +1,48 @@
+site_name: Code With Beer
+site_url: https://with.cupof.beer/
+nav:
+    - Home: index.md
+    - About: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
+      name: squidfunk on Twitter
+
+copyright: Copy, right? 🤔
+
+extra_javascript:
+  - javascripts/extra.js
+
+extra_css:
+  - stylesheets/extra.css
+
+# repo_url: https://github.com/JustLinton/leetcode-practice
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: nord
+    # primary: white
+    accent: nord
+  icon:
+    logo: material/beer-outline
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+  
+  plugins:
+    - search:
+          lang:
+            - en
+            - ru
+          prebuild_index: true
+
