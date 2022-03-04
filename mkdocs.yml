@@ -1,31 +1,79 @@
-site_name: Code With Beer
+site_name: With Beer
 site_url: https://with.cupof.beer/
 nav:
-    - Home: index.md
-    - About: about.md
+    - Home: 
+      - index.md
+      - 'About': 'about.md'
+    - Coding:
+      - coding/index.md
+      - '排序': 'coding/sorting.md'
+      - '二分': 'coding/half.md'
+      - '高精度': 'coding/high-precision.md'
+    - Mathematics:
+      - mathematics/index.md
+      # - 'about': 'mathematics/about.md'
+      # - 'about2': 'mathematics/about2.md'
+    - "Computer Structure":
+      - computer-structure/index.md
+      # - 'about': 'computer-structure/about.md'
+      # - 'about2': 'computer-structure/about2.md'
+    - "Data Structure":
+      - data-structure/index.md
+      # - 'about': 'data-structure/about.md'
+      # - 'about2': 'data-structure/about2.md'
+    - "Operating System":
+      - operating-system/index.md
+      # - 'about': 'operating-system/about.md'
+      # - 'about2': 'operating-system/about2.md'
+    - "Networks":
+      - networks/index.md
+      # - 'about': 'networks/about.md'
+      # - 'about2': 'networks/about2.md'
 
 extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
       name: squidfunk on Twitter
+  # disqus: 'MTAyMC81NTY1Ni8zMjEyMw=='
 
 copyright: Copy, right? 🤔
 
 extra_javascript:
   - javascripts/extra.js
+  - javascripts/config.js
+  # - javascripts/busuanzi.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
   - stylesheets/extra.css
 
-# repo_url: https://github.com/JustLinton/leetcode-practice
+repo_url: https://github.com/JustLinton/
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - pymdownx.highlight:
+     linenums: true
+     linenums_style: pymdownx.inline
+  - pymdownx.superfences
+
+
+
 
 theme:
   name: material
   custom_dir: overrides
+  favicon: images/favicon.ico
   palette:
     scheme: nord
-    # primary: white
+    # primary: white¸¸¸¸
     accent: nord
   icon:
     logo: material/beer-outline
@@ -35,6 +83,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share

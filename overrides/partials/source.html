@@ -19,19 +19,20 @@
   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
   IN THE SOFTWARE.
 -->
-
+<!-- href="{{ config.repo_url }}" -->
 <!-- Repository information -->
 <a
-  href="{{ config.repo_url }}"
+  href="https://a.cupof.beer/"
   title="{{ lang.t('source.link.title') }}"
   class="md-source"
   data-md-component="source"
 >
   <div class="md-source__icon md-icon">
-    {% set icon = config.theme.icon.repo or "fontawesome/brands/git-alt" %}
-    {% include ".icons/" ~ icon ~ ".svg" %}
+    <!-- {% set icon = config.theme.icon.repo or "fontawesome/brands/git-alt" %} -->
+    {% include ".icons/material/arrow-right" ~ ".svg" %}
   </div>
   <div class="md-source__repository">
-    {{ config.repo_name }}
+    <!-- {{ config.repo_name }} -->
+    To A Cupof Beer 🍺
   </div>
 </a>

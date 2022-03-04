@@ -20,14 +20,15 @@
   IN THE SOFTWARE.
 -->
 
+<!-- href="{{ page.edit_url }}" -->
 <!-- Edit button -->
 {% if page.edit_url %}
 <a
-  href="{{ page.edit_url }}"
+  href="#"
   title="{{ lang.t('edit.link.title') }}"
   class="md-content__button md-icon"
 >
-  {% include ".icons/material/pencil.svg" %}
+  {% include ".icons/material/beer-outline.svg" %}
 </a>
 {% endif %}
 
@@ -47,6 +48,13 @@
 
 <!-- Markdown content -->
 {{ page.content }}
+
+<br/>
+<br/>
+<hr/>
+<!-- <span class="bsz" id="busuanzi_container_page_pv"> <span  class="bsz" id="busuanzi_value_page_pv"></span> Reads.</span><br/>
+<span  class="bsz" id="busuanzi_container_site_uv">'#With Beer 🍺' has now <span  class="bsz" id="busuanzi_value_site_uv"></span> visitors.</span> -->
+
 
 <!-- Source file information -->
 {% if page and page.meta and (

@@ -7,13 +7,27 @@
 
 [data-md-color-scheme="nord"] {
     --md-primary-fg-color:        #b4c2dd;
-    --md-primary-fg-color--light: #e9edf2;
+    --md-primary-fg-color--light: #ecf1f7;
     --md-primary-fg-color--dark:  #859ABA;
     --md-footer-fg-color: #859ABA;
     --md-footer-bg-color:        #e9edf2;
     --md-footer-bg-color--dark:        #c0cde7;
     --md-footer-fg-color--light: #ffffff;
     --md-footer-fg-color--lighter: #ffffff;
+    --md-default-bg-color:#ffffff;
+    --md-default-fg-color--lightest:#dfe6f5;
+
+    --md-default-fg-color:    #5f6672;
+
+    --md-code-bg-color: #f5f5f58c;
+    --md-code-hl-number-color:         rgb(211, 108, 108);
+    --md-code-hl-special-color:        rgb(216, 108, 144);
+    --md-code-hl-function-color:       rgb(175, 113, 185);
+    --md-code-hl-constant-color:       rgb(140, 125, 211);
+    --md-code-hl-keyword-color:        rgb(95, 130, 196);
+    --md-code-hl-string-color:         #5e728f;
+
+    /* --md-default-fg-color:#ffffff; */
   }
 
 
@@ -21,9 +35,22 @@
     color:#eccb78;
   }
 
+  .md-source__facts{
+    display: none;
+  }
+
+  .md-nav__item{
+    color:#a1a1a1;
+  }
+  
+ /* .bsz{
+  color:#a1a1a1;
+  font-size: 0.4rem;
+ } */
+
 [data-md-color-accent="nord"] {
-  --md-accent-fg-color:             #eccb78;
-  --md-accent-fg-color--transparent: #eccb78;
+  --md-accent-fg-color:             #f3cb67;
+  --md-accent-fg-color--transparent: #b4c2dd33;
     /* --md-accent-fg-color:             #baab94;
     --md-accent-fg-color--transparent: #baab94; */
     --md-accent-bg-color:           hsla(0, 0%, 0%, 0.87);
