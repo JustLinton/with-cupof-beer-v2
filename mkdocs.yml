@@ -9,6 +9,9 @@ nav:
       - '排序': 'coding/sorting.md'
       - '二分': 'coding/half.md'
       - '高精度': 'coding/high-precision.md'
+      - '前缀和': 'coding/prefix-sum.md'
+      - '差分': 'coding/diff-arr.md'
+      - '双指针': 'coding/double-pointer.md'
     - Mathematics:
       - mathematics/index.md
       # - 'about': 'mathematics/about.md'
