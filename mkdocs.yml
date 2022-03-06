@@ -1,37 +1,26 @@
-site_name: With Beer
+site_name: Coding With Beer
 site_url: https://with.cupof.beer/
 nav:
-    - Home: 
+    - '简介': 
       - index.md
-      - 'About': 'about.md'
-    - Coding:
-      - coding/index.md
-      - '排序': 'coding/sorting.md'
-      - '二分': 'coding/half.md'
-      - '高精度': 'coding/high-precision.md'
-      - '前缀和': 'coding/prefix-sum.md'
-      - '差分': 'coding/diff-arr.md'
-      - '双指针': 'coding/double-pointer.md'
-    - Mathematics:
-      - mathematics/index.md
-      # - 'about': 'mathematics/about.md'
-      # - 'about2': 'mathematics/about2.md'
-    - "Computer Structure":
-      - computer-structure/index.md
-      # - 'about': 'computer-structure/about.md'
-      # - 'about2': 'computer-structure/about2.md'
-    - "Data Structure":
-      - data-structure/index.md
-      # - 'about': 'data-structure/about.md'
-      # - 'about2': 'data-structure/about2.md'
-    - "Operating System":
-      - operating-system/index.md
-      # - 'about': 'operating-system/about.md'
-      # - 'about2': 'operating-system/about2.md'
-    - "Networks":
-      - networks/index.md
-      # - 'about': 'networks/about.md'
-      # - 'about2': 'networks/about2.md'
+    - '基础算法':
+      - coding/basics/index.md
+      - '去重': 'coding/basics/unique.md'
+      - '排序': 'coding/basics/sorting.md'
+      - '二分': 'coding/basics/half.md'
+      - '高精度': 'coding/basics/high-precision.md'
+      - '前缀和': 'coding/basics/prefix-sum.md'
+      - '差分': 'coding/basics/diff-arr.md'
+      - '双指针': 'coding/basics/double-pointer.md'
+      - '二进制': 'coding/basics/binary.md'
+      - '离散化': 'coding/basics/discretization.md'
+      - '区间合并': 'coding/basics/interval-unite.md'
+    - '数据结构':
+        - '模拟链表':
+          - 'coding/data-structure/static-list/static-list-intro.md'
+          - '模拟单链表': 'coding/data-structure/static-list/static-singlelist.md'
+          - '模拟双链表': 'coding/data-structure/static-list/static-doublelist.md'
+
 
 extra:
   social:
@@ -61,10 +50,14 @@ markdown_extensions:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
-  - attr_list
+  # - attr_list
+  # - def_list
   - pymdownx.highlight:
      linenums: true
      linenums_style: pymdownx.inline
+  # - pymdownx.tasklist:
+  #     clickable_checkbox: true
+  #     custom_checkbox: true
   - pymdownx.superfences
 
 
@@ -83,18 +76,24 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
-    - navigation.sections
+    # - navigation.sections
     - navigation.expand
     - navigation.indexes
-    - toc.integrate
+    # - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
   
   plugins:
     - search:
-          lang:
-            - en
-            - ru
-          prebuild_index: true
+      lang:
+          - en
+          - ja
+      separator: '[\s\-\.]+'
+    # - search:
+    #   lang:
+    #     - en
+    #     - ja
+    #   separator: '[\s\-\.]+'
+      # prebuild_index: true
 

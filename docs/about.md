@@ -1,3 +1,0 @@
-# About the project...
-
-这里是一些关于。
