@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "3c4d62f6a0bf607f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e40c30e67a714e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "basics/string-matching/kmp.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95884bed8055823d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fb66a70524aa17f",
+        "type": "tabs",
+        "dimension": 71.66666666666667,
+        "children": [
+          {
+            "id": "eeea7617cca97f17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e3af993acb263f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#网课",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2fdaceaa5e1a8f98",
+        "type": "tabs",
+        "dimension": 28.33333333333333,
+        "children": [
+          {
+            "id": "c6311cc2e9299a9d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8f08f4f474f5b86e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a91359ad045a62a",
+        "type": "tabs",
+        "dimension": 56.12691466083151,
+        "children": [
+          {
+            "id": "1d2613a1d27030b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f20f8cea752440ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "basics/string-matching/kmp.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "eae91358b6bd8518",
+        "type": "tabs",
+        "dimension": 21.991247264770244,
+        "children": [
+          {
+            "id": "c7f1a16940983aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f69faf4338c851a1",
+        "type": "tabs",
+        "dimension": 21.881838074398253,
+        "children": [
+          {
+            "id": "d91baa8fc331b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "basics/string-matching/kmp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5,
+    "collapsed": true
+  },
+  "active": "30e40c30e67a714e",
+  "lastOpenFiles": [
+    "basics/string-matching/kmp.md",
+    "basics/string-matching/index.md",
+    "basics/unique/index.md",
+    "data-structure/static-queue/mono-queue.md",
+    "data-structure/static-stack/mono-stack.md",
+    "cold-knowledge/index.md",
+    "data-structure/about/index.md",
+    "data-structure/static-stack/index.md",
+    "data-structure/static-queue/index.md",
+    "data-structure/static-list/index.md"
+  ]
+}

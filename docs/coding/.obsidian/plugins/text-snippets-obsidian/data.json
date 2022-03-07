@@ -1,0 +1,21 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\ntips : !!! beer-tips \"浅记\" \\nl\\    \\end\\\nconc : !!! quote \"结论\" \\nl\\    \\end\\\ntipsr : !!! beer-tips inline end \"浅记\" \\nl\\    \\end\\\ntipsl : !!! beer-tips inline \"浅记\" \\nl\\    \\end\\\nc : ``` c++ title=\"\" hl_lines=\"0\" \\nl\\\\end\\\\nl\\```\nct : === \"C++\"\\nl\\\\nl\\\t``` c++ title=\"\" hl_lines=\"0\" \\nl\\    \\end\\\\nl\\\t```\\nl\\\\nl\\=== \"Python\"\\nl\\\\nl\\\t``` python title=\"\" hl_lines=\"0\" \\nl\\\\nl\\\\nl\\\t```",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "tips : !!! beer-tips \"浅记\" \\nl\\    \\end\\",
+    "conc : !!! quote \"结论\" \\nl\\    \\end\\",
+    "tipsr : !!! beer-tips inline end \"浅记\" \\nl\\    \\end\\",
+    "tipsl : !!! beer-tips inline \"浅记\" \\nl\\    \\end\\",
+    "c : ``` c++ title=\"\" hl_lines=\"0\" \\nl\\\\end\\\\nl\\```",
+    "ct : === \"C++\"\\nl\\\\nl\\\t``` c++ title=\"\" hl_lines=\"0\" \\nl\\    \\end\\\\nl\\\t```\\nl\\\\nl\\=== \"Python\"\\nl\\\\nl\\\t``` python title=\"\" hl_lines=\"0\" \\nl\\\\nl\\\\nl\\\t```"
+  ],
+  "endSymbol": "\\end\\",
+  "newlineSymbol": "\\nl\\",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": false,
+  "isWYSISWYG": true
+}

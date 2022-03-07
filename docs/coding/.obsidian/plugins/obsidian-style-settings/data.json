@@ -1,0 +1,18 @@
+{
+  "minimal-style@@h1": "2.225em",
+  "minimal-style@@h2": "1.95em",
+  "minimal-style@@h3": "1.65em",
+  "minimal-style@@h4": "1.35em",
+  "minimal-style@@h5": "1.1em",
+  "minimal-style@@h1-l": true,
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@h3-variant": "small-caps",
+  "minimal-style@@h2-variant": "small-caps",
+  "minimal-style@@h1-variant": "small-caps",
+  "minimal-style@@text-bold@@light": "#7287A6",
+  "minimal-style@@h1-color@@light": "#7287A6",
+  "minimal-style@@h2-color@@light": "#7287A6",
+  "minimal-style@@h3-color@@light": "#7287A6",
+  "minimal-style@@h4-color@@light": "#7287A6",
+  "minimal-style@@tx1@@light": "#6C6C6C"
+}

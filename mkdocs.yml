@@ -4,8 +4,10 @@ nav:
     - '简介': 
       - index.md
     - '基础算法':
-      - '关于本章节':
-        - coding/basics/about/index.md
+      - coding/basics/about/index.md
+      - '字符串匹配': 
+        - 'coding/basics/string-matching/index.md'
+        - 'KMP' : 'coding/basics/string-matching/kmp.md'
       - '去重': 
         - coding/basics/unique/index.md
         - 'vector的去重' : 'coding/basics/unique/unique-using-vector.md'
@@ -40,13 +42,20 @@ nav:
       - '区间合并': 
         - 'coding/basics/interval-unite/index.md'
     - '数据结构':
-        - '关于本章节':
-          - coding/data-structure/about/index.md
+        - coding/data-structure/about/index.md
         - '静态链表':
           - coding/data-structure/static-list/index.md
           - '静态单链表': 'coding/data-structure/static-list/static-singlelist.md'
           - '静态双链表': 'coding/data-structure/static-list/static-doublelist.md'
-
+        - '静态栈':
+          - coding/data-structure/static-stack/index.md
+          - '单调栈': 'coding/data-structure/static-stack/mono-stack.md'
+        - '静态队列':
+          - coding/data-structure/static-queue/index.md
+          - '单调队列': 'coding/data-structure/static-queue/mono-queue.md'
+    - '冷知识🧊': 
+      - coding/cold-knowledge/index.md
+    
 
 extra:
   social:
@@ -82,8 +91,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.arithmatex:
       generic: true
-  # - attr_list
-  # - def_list
+  - attr_list
+  - def_list
   - pymdownx.highlight:
      linenums: true
      linenums_style: pymdownx.inline
@@ -91,8 +100,10 @@ markdown_extensions:
   #     clickable_checkbox: true
   #     custom_checkbox: true
   - pymdownx.superfences
-
-
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 
 
 
 theme:

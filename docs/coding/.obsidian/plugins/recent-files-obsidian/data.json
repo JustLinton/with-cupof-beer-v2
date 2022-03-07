@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "kmp",
+      "path": "basics/string-matching/kmp.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/string-matching/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/unique/index.md"
+    },
+    {
+      "basename": "mono-queue",
+      "path": "data-structure/static-queue/mono-queue.md"
+    },
+    {
+      "basename": "mono-stack",
+      "path": "data-structure/static-stack/mono-stack.md"
+    },
+    {
+      "basename": "index",
+      "path": "cold-knowledge/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/about/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-stack/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-queue/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-list/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/about/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/sorting/index.md"
+    },
+    {
+      "basename": "quick-sort",
+      "path": "basics/sorting/quick-sort.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "merge-sort",
+      "path": "basics/sorting/merge-sort.md"
+    },
+    {
+      "basename": "prefix-sum-dim2",
+      "path": "basics/prefix-sum/prefix-sum-dim2.md"
+    },
+    {
+      "basename": "prefix-sum-dim1",
+      "path": "basics/prefix-sum/prefix-sum-dim1.md"
+    },
+    {
+      "basename": "diff-arr-dim1",
+      "path": "basics/diff-arr/diff-arr-dim1.md"
+    },
+    {
+      "basename": "5.有限自动机",
+      "path": "ClassNotes/Compilers/5.有限自动机.md"
+    },
+    {
+      "basename": "Word List 009-009",
+      "path": "English/Words/Word List 009-009.md"
+    },
+    {
+      "basename": "Word List 005-008",
+      "path": "English/Words/Word List 005-008.md"
+    },
+    {
+      "basename": "熟词生义",
+      "path": "English/Words/熟词生义.md"
+    },
+    {
+      "basename": "5.双指针、二进制",
+      "path": "AlgorithmsSeason2/5.双指针、二进制.md"
+    },
+    {
+      "basename": "4.前缀和、差分",
+      "path": "AlgorithmsSeason2/4.前缀和、差分.md"
+    },
+    {
+      "basename": "快速排序",
+      "path": "AlgorithmsSeason2/快速排序.md"
+    },
+    {
+      "basename": "引入",
+      "path": "AlgorithmsSeason2/引入.md"
+    },
+    {
+      "basename": "高精度",
+      "path": "AlgorithmsSeason2/高精度.md"
+    },
+    {
+      "basename": "二分",
+      "path": "AlgorithmsSeason2/二分.md"
+    },
+    {
+      "basename": "LightShadow 后端README",
+      "path": "Gatelligence/LightShadow 后端README.md"
+    },
+    {
+      "basename": "轻影接口",
+      "path": "Gatelligence/轻影接口.md"
+    },
+    {
+      "basename": "后端README",
+      "path": "Gatelligence/后端README.md"
+    },
+    {
+      "basename": "各职位要求",
+      "path": "Internship/各职位要求.md"
+    },
+    {
+      "basename": "文字版简历",
+      "path": "Internship/文字版简历.md"
+    },
+    {
+      "basename": "有用的网站",
+      "path": "DesignResources/有用的网站.md"
+    },
+    {
+      "basename": "测试-第一篇文稿",
+      "path": "ObisidianUsages/测试-第一篇文稿.md"
+    },
+    {
+      "basename": "技术相关资源",
+      "path": "Gatelligence/技术相关资源.md"
+    },
+    {
+      "basename": "exp1",
+      "path": "ClassNotes/OSDesign/exp1.md"
+    },
+    {
+      "basename": "class1",
+      "path": "ClassNotes/OSDesign/class1.md"
+    },
+    {
+      "basename": "CI-16",
+      "path": "English/Listening/CI-16.md"
+    },
+    {
+      "basename": "English Homepage",
+      "path": "English/English Homepage.md"
+    },
+    {
+      "basename": "Word List 001-004",
+      "path": "English/Words/Word List 001-004.md"
+    },
+    {
+      "basename": "class2",
+      "path": "ClassNotes/CS/class2.md"
+    },
+    {
+      "basename": "4.词法分析器",
+      "path": "ClassNotes/Compilers/4.词法分析器.md"
+    },
+    {
+      "basename": "3.文法",
+      "path": "ClassNotes/Compilers/3.文法.md"
+    },
+    {
+      "basename": "1.概论",
+      "path": "ClassNotes/Compilers/1.概论.md"
+    },
+    {
+      "basename": "2.T形图",
+      "path": "ClassNotes/Compilers/2.T形图.md"
+    },
+    {
+      "basename": "复旦群文件学习",
+      "path": "PostGraduateFight/Fudan/复旦群文件学习.md"
+    },
+    {
+      "basename": "插件",
+      "path": "ObisidianUsages/插件.md"
+    },
+    {
+      "basename": "关于",
+      "path": "ClassNotes/Mao/关于.md"
+    },
+    {
+      "basename": "admonitions",
+      "path": "ObisidianUsages/admonitions.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
