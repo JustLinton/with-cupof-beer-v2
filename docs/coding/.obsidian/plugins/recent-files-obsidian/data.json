@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "index",
       "path": "data-structure/trie/index.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "quick-sort",
       "path": "basics/sorting/quick-sort.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "merge-sort",

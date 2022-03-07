@@ -121,6 +121,12 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
+    - scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
     # - scheme: nord-slate 
     #   toggle:
     #     icon: material/toggle-switch
