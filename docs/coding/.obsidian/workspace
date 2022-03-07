@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/string-matching/kmp.md",
+            "file": "data-structure/trie/index.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basics/string-matching/kmp.md"
+                "file": "data-structure/trie/index.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/string-matching/kmp.md",
+                "file": "data-structure/trie/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +150,7 @@
   },
   "active": "30e40c30e67a714e",
   "lastOpenFiles": [
+    "data-structure/trie/index.md",
     "basics/string-matching/kmp.md",
     "basics/string-matching/index.md",
     "basics/unique/index.md",
@@ -158,7 +159,6 @@
     "cold-knowledge/index.md",
     "data-structure/about/index.md",
     "data-structure/static-stack/index.md",
-    "data-structure/static-queue/index.md",
-    "data-structure/static-list/index.md"
+    "data-structure/static-queue/index.md"
   ]
 }

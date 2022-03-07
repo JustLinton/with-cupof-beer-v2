@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "data-structure/trie/index.md"
+    },
+    {
       "basename": "kmp",
       "path": "basics/string-matching/kmp.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "关于",
       "path": "ClassNotes/Mao/关于.md"
-    },
-    {
-      "basename": "admonitions",
-      "path": "ObisidianUsages/admonitions.md"
     }
   ],
   "omittedPaths": [],

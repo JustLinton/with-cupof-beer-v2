@@ -11,10 +11,14 @@ nav:
       - '去重': 
         - coding/basics/unique/index.md
         - 'vector的去重' : 'coding/basics/unique/unique-using-vector.md'
+      - '离散化': 
+        - 'coding/basics/discretization/index.md'
       - '排序': 
         - 'coding/basics/sorting/index.md'
         - '归并排序' : 'coding/basics/sorting/merge-sort.md'
         - '快速排序' : 'coding/basics/sorting/quick-sort.md'
+      - '区间合并': 
+        - 'coding/basics/interval-unite/index.md'
       - '二分': 
         - 'coding/basics/binary-search/index.md'
         - '整数二分' : 'coding/basics/binary-search/integer-binary-search.md'
@@ -25,6 +29,8 @@ nav:
         - '高精度减法' : 'coding/basics/high-precision/high-precision-sub.md'
         - '高精度乘法' : 'coding/basics/high-precision/high-precision-mul.md'
         - '高精度除法' : 'coding/basics/high-precision/high-precision-div.md'
+      - '双指针': 
+        - 'coding/basics/double-pointer/index.md'
       - '前缀和':
         - 'coding/basics/prefix-sum/index.md'
         - '一维前缀和' : 'coding/basics/prefix-sum/prefix-sum-dim1.md'
@@ -33,14 +39,10 @@ nav:
         - 'coding/basics/diff-arr/index.md'
         - '一维差分' : 'coding/basics/diff-arr/diff-arr-dim1.md'
         - '二维差分' : 'coding/basics/diff-arr/diff-arr-dim2.md'
-      - '双指针': 
-        - 'coding/basics/double-pointer/index.md'
       - '二进制': 
         - 'coding/basics/binary/index.md'
-      - '离散化': 
-        - 'coding/basics/discretization/index.md'
-      - '区间合并': 
-        - 'coding/basics/interval-unite/index.md'
+
+
     - '数据结构':
         - coding/data-structure/about/index.md
         - '静态链表':
@@ -53,6 +55,8 @@ nav:
         - '静态队列':
           - coding/data-structure/static-queue/index.md
           - '单调队列': 'coding/data-structure/static-queue/mono-queue.md'
+        - 'Trie树🌲':
+          - coding/data-structure/trie/index.md
     - '冷知识🧊': 
       - coding/cold-knowledge/index.md
     
