@@ -4,29 +4,61 @@ nav:
     - '简介': 
       - index.md
     - '基础算法':
-      - coding/basics/index.md
-      - '去重': 'coding/basics/unique.md'
-      - '排序': 'coding/basics/sorting.md'
-      - '二分': 'coding/basics/half.md'
-      - '高精度': 'coding/basics/high-precision.md'
-      - '前缀和': 'coding/basics/prefix-sum.md'
-      - '差分': 'coding/basics/diff-arr.md'
-      - '双指针': 'coding/basics/double-pointer.md'
-      - '二进制': 'coding/basics/binary.md'
-      - '离散化': 'coding/basics/discretization.md'
-      - '区间合并': 'coding/basics/interval-unite.md'
+      - '关于本章节':
+        - coding/basics/about/index.md
+      - '去重': 
+        - coding/basics/unique/index.md
+        - 'vector的去重' : 'coding/basics/unique/unique-using-vector.md'
+      - '排序': 
+        - 'coding/basics/sorting/index.md'
+        - '归并排序' : 'coding/basics/sorting/merge-sort.md'
+        - '快速排序' : 'coding/basics/sorting/quick-sort.md'
+      - '二分': 
+        - 'coding/basics/binary-search/index.md'
+        - '整数二分' : 'coding/basics/binary-search/integer-binary-search.md'
+        - '浮点二分' : 'coding/basics/binary-search/float-binary-search.md'
+      - '高精度': 
+        - 'coding/basics/high-precision/index.md'
+        - '高精度加法' : 'coding/basics/high-precision/high-precision-plus.md'
+        - '高精度减法' : 'coding/basics/high-precision/high-precision-sub.md'
+        - '高精度乘法' : 'coding/basics/high-precision/high-precision-mul.md'
+        - '高精度除法' : 'coding/basics/high-precision/high-precision-div.md'
+      - '前缀和':
+        - 'coding/basics/prefix-sum/index.md'
+        - '一维前缀和' : 'coding/basics/prefix-sum/prefix-sum-dim1.md'
+        - '二维前缀和' : 'coding/basics/prefix-sum/prefix-sum-dim2.md' 
+      - '差分': 
+        - 'coding/basics/diff-arr/index.md'
+        - '一维差分' : 'coding/basics/diff-arr/diff-arr-dim1.md'
+        - '二维差分' : 'coding/basics/diff-arr/diff-arr-dim2.md'
+      - '双指针': 
+        - 'coding/basics/double-pointer/index.md'
+      - '二进制': 
+        - 'coding/basics/binary/index.md'
+      - '离散化': 
+        - 'coding/basics/discretization/index.md'
+      - '区间合并': 
+        - 'coding/basics/interval-unite/index.md'
     - '数据结构':
-        - '模拟链表':
-          - 'coding/data-structure/static-list/static-list-intro.md'
-          - '模拟单链表': 'coding/data-structure/static-list/static-singlelist.md'
-          - '模拟双链表': 'coding/data-structure/static-list/static-doublelist.md'
+        - '关于本章节':
+          - coding/data-structure/about/index.md
+        - '静态链表':
+          - coding/data-structure/static-list/index.md
+          - '静态单链表': 'coding/data-structure/static-list/static-singlelist.md'
+          - '静态双链表': 'coding/data-structure/static-list/static-doublelist.md'
 
 
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
-      name: squidfunk on Twitter
+      link: https://twitter.com/linton_collin
+      name: Linton Jiang on Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/JustLinton
+      name: Linton Jiang on Github
+    - icon: fontawesome/brands/behance
+      link: https://github.com/JustLinton
+      name: Linton Jiang on Behance
   # disqus: 'MTAyMC81NTY1Ni8zMjEyMw=='
 
 copyright: Copy, right? 🤔
@@ -65,20 +97,31 @@ markdown_extensions:
 
 theme:
   name: material
+  language: 'zh'
   custom_dir: overrides
   favicon: images/favicon.ico
   palette:
-    scheme: nord
+    - scheme: nord
+      accent: nord
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    # scheme: nord
     # primary: white¸¸¸¸
-    accent: nord
+    # accent: nord
   icon:
     logo: material/beer-outline
   features:
     - navigation.tabs
     - navigation.instant
     # - navigation.sections
-    - navigation.expand
+    # - navigation.expand
     - navigation.indexes
+    - navigation.top
     # - toc.integrate
     - search.suggest
     - search.highlight
@@ -86,14 +129,6 @@ theme:
   
   plugins:
     - search:
-      lang:
-          - en
-          - ja
-      separator: '[\s\-\.]+'
-    # - search:
-    #   lang:
-    #     - en
-    #     - ja
-    #   separator: '[\s\-\.]+'
-      # prebuild_index: true
+      prebuild_index: true
+
 

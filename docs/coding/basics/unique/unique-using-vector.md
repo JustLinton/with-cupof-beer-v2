@@ -1,6 +1,4 @@
-# 去重
-
-## vector去重
+# vector去重
 
 - 一般通过如下方式：首先设vector中有j个不重复元素，注意要先sort，于是unique的作用是将sort后的vector中的去重后的元素放到前j个位置，并且返回下标j的迭代器。于是我们只需要erase这段从j迭代器到vector末尾的区域即可。
 
