@@ -101,15 +101,15 @@ theme:
   custom_dir: overrides
   favicon: images/favicon.ico
   palette:
-    - scheme: beer
-      accent: beer
+    - scheme: nord
+      accent: nord
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-    - scheme: beer-dark 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    # - scheme: nord-slate 
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Switch to light mode
     # scheme: nord
     # primary: white¸¸¸¸
     # accent: nord
