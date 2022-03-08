@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "string-hash",
+      "path": "basics/string-matching/string-hash.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-hash-table/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "cold-knowledge/index.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "element-count",
+      "path": "data-structure/union-find/element-count.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/union-find/index.md"
+    },
+    {
+      "basename": "union-by-height",
+      "path": "data-structure/union-find/union-by-height.md"
+    },
+    {
+      "basename": "path-compress",
+      "path": "data-structure/union-find/path-compress.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-heap/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-stack/index.md"
     },
     {
       "basename": "index",
@@ -30,15 +66,7 @@
     },
     {
       "basename": "index",
-      "path": "cold-knowledge/index.md"
-    },
-    {
-      "basename": "index",
       "path": "data-structure/about/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "data-structure/static-stack/index.md"
     },
     {
       "basename": "index",
@@ -171,34 +199,6 @@
     {
       "basename": "class2",
       "path": "ClassNotes/CS/class2.md"
-    },
-    {
-      "basename": "4.词法分析器",
-      "path": "ClassNotes/Compilers/4.词法分析器.md"
-    },
-    {
-      "basename": "3.文法",
-      "path": "ClassNotes/Compilers/3.文法.md"
-    },
-    {
-      "basename": "1.概论",
-      "path": "ClassNotes/Compilers/1.概论.md"
-    },
-    {
-      "basename": "2.T形图",
-      "path": "ClassNotes/Compilers/2.T形图.md"
-    },
-    {
-      "basename": "复旦群文件学习",
-      "path": "PostGraduateFight/Fudan/复旦群文件学习.md"
-    },
-    {
-      "basename": "插件",
-      "path": "ObisidianUsages/插件.md"
-    },
-    {
-      "basename": "关于",
-      "path": "ClassNotes/Mao/关于.md"
     }
   ],
   "omittedPaths": [],

@@ -8,6 +8,7 @@ nav:
       - '字符串匹配': 
         - 'coding/basics/string-matching/index.md'
         - 'KMP' : 'coding/basics/string-matching/kmp.md'
+        - '字符串哈希' : 'coding/basics/string-matching/string-hash.md'
       - '去重': 
         - coding/basics/unique/index.md
         - 'vector的去重' : 'coding/basics/unique/unique-using-vector.md'
@@ -57,6 +58,15 @@ nav:
           - '单调队列': 'coding/data-structure/static-queue/mono-queue.md'
         - 'Trie树🌲':
           - coding/data-structure/trie/index.md
+        - '并查集':
+          - coding/data-structure/union-find/index.md
+          - '路径压缩': 'coding/data-structure/union-find/path-compress.md'
+          - '按秩合并': 'coding/data-structure/union-find/union-by-height.md'
+          - '元素计数': 'coding/data-structure/union-find/element-count.md'
+        - '静态堆':
+          - coding/data-structure/static-heap/index.md
+        - '静态哈希表':
+          - coding/data-structure/static-hash-table/index.md
     - '冷知识🧊': 
       - coding/cold-knowledge/index.md
     
@@ -121,9 +131,9 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-    - scheme: default
-      primary: white
-      accent: blue
+    - scheme: slate
+      primary: black
+      # accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
