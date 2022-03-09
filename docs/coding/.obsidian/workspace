@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cd65aa09940f7022",
+        "id": "a8e79e490f2ac2e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/string-matching/string-hash.md",
+            "file": "basics/bit-compress/index.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basics/string-matching/string-hash.md"
+                "file": "basics/bit-compress/index.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/string-matching/string-hash.md",
+                "file": "basics/bit-compress/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,17 +148,17 @@
     "width": 213.5,
     "collapsed": true
   },
-  "active": "cd65aa09940f7022",
+  "active": "a8e79e490f2ac2e5",
   "lastOpenFiles": [
-    "basics/string-matching/string-hash.md",
-    "data-structure/static-hash-table/index.md",
+    "basics/bit-compress/index.md",
+    "cold-knowledge/stl.md",
     "cold-knowledge/index.md",
     "Home.md",
+    "basics/string-matching/string-hash.md",
+    "data-structure/static-hash-table/index.md",
     "data-structure/union-find/element-count.md",
     "data-structure/union-find/index.md",
     "data-structure/union-find/union-by-height.md",
-    "data-structure/union-find/path-compress.md",
-    "data-structure/static-heap/index.md",
-    "data-structure/static-stack/index.md"
+    "data-structure/union-find/path-compress.md"
   ]
 }

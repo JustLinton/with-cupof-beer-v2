@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "string-hash",
-      "path": "basics/string-matching/string-hash.md"
+      "basename": "index",
+      "path": "basics/bit-compress/index.md"
     },
     {
-      "basename": "index",
-      "path": "data-structure/static-hash-table/index.md"
+      "basename": "stl",
+      "path": "cold-knowledge/stl.md"
     },
     {
       "basename": "index",
@@ -15,6 +15,14 @@
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "string-hash",
+      "path": "basics/string-matching/string-hash.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-hash-table/index.md"
     },
     {
       "basename": "element-count",
@@ -191,14 +199,6 @@
     {
       "basename": "English Homepage",
       "path": "English/English Homepage.md"
-    },
-    {
-      "basename": "Word List 001-004",
-      "path": "English/Words/Word List 001-004.md"
-    },
-    {
-      "basename": "class2",
-      "path": "ClassNotes/CS/class2.md"
     }
   ],
   "omittedPaths": [],

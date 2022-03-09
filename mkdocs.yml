@@ -24,6 +24,8 @@ nav:
         - 'coding/basics/binary-search/index.md'
         - '整数二分' : 'coding/basics/binary-search/integer-binary-search.md'
         - '浮点二分' : 'coding/basics/binary-search/float-binary-search.md'
+      - '压位': 
+        - coding/basics/bit-compress/index.md
       - '高精度': 
         - 'coding/basics/high-precision/index.md'
         - '高精度加法' : 'coding/basics/high-precision/high-precision-plus.md'
@@ -45,30 +47,31 @@ nav:
 
 
     - '数据结构':
-        - coding/data-structure/about/index.md
-        - '静态链表':
-          - coding/data-structure/static-list/index.md
-          - '静态单链表': 'coding/data-structure/static-list/static-singlelist.md'
-          - '静态双链表': 'coding/data-structure/static-list/static-doublelist.md'
-        - '静态栈':
-          - coding/data-structure/static-stack/index.md
-          - '单调栈': 'coding/data-structure/static-stack/mono-stack.md'
-        - '静态队列':
-          - coding/data-structure/static-queue/index.md
-          - '单调队列': 'coding/data-structure/static-queue/mono-queue.md'
-        - 'Trie树🌲':
-          - coding/data-structure/trie/index.md
-        - '并查集':
-          - coding/data-structure/union-find/index.md
-          - '路径压缩': 'coding/data-structure/union-find/path-compress.md'
-          - '按秩合并': 'coding/data-structure/union-find/union-by-height.md'
-          - '元素计数': 'coding/data-structure/union-find/element-count.md'
-        - '静态堆':
-          - coding/data-structure/static-heap/index.md
-        - '静态哈希表':
-          - coding/data-structure/static-hash-table/index.md
+      - coding/data-structure/about/index.md
+      - '静态链表':
+        - coding/data-structure/static-list/index.md
+        - '静态单链表': 'coding/data-structure/static-list/static-singlelist.md'
+        - '静态双链表': 'coding/data-structure/static-list/static-doublelist.md'
+      - '静态栈':
+        - coding/data-structure/static-stack/index.md
+        - '单调栈': 'coding/data-structure/static-stack/mono-stack.md'
+      - '静态队列':
+        - coding/data-structure/static-queue/index.md
+        - '单调队列': 'coding/data-structure/static-queue/mono-queue.md'
+      - 'Trie树🌲':
+        - coding/data-structure/trie/index.md
+      - '并查集':
+        - coding/data-structure/union-find/index.md
+        - '路径压缩': 'coding/data-structure/union-find/path-compress.md'
+        - '按秩合并': 'coding/data-structure/union-find/union-by-height.md'
+        - '元素计数': 'coding/data-structure/union-find/element-count.md'
+      - '静态堆':
+        - coding/data-structure/static-heap/index.md
+      - '静态哈希表':
+        - coding/data-structure/static-hash-table/index.md
     - '冷知识🧊': 
       - coding/cold-knowledge/index.md
+      - 'STL的那些事': 'coding/cold-knowledge/stl.md'
     
 
 extra:
