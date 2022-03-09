@@ -125,5 +125,14 @@
       ],
       "key": "R"
     }
+  ],
+  "open-with-default-app:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
   ]
 }

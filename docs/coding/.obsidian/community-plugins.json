@@ -19,5 +19,6 @@
   "obsidian-plugin-toc",
   "obsidian-collapse-all-plugin",
   "homepage",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "open-with"
 ]

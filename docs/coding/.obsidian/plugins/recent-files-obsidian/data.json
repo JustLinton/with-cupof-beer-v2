@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "solutions",
+      "path": "basics/double-pointer/solutions.md"
+    },
+    {
+      "basename": "linked-star",
+      "path": "data-structure/static-graph/linked-star.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-graph/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "data-structure/static-queue/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/discretization/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/double-pointer/index.md"
+    },
+    {
+      "basename": "diff-arr-dim2",
+      "path": "basics/diff-arr/diff-arr-dim2.md"
+    },
+    {
+      "basename": "diff-arr-dim1",
+      "path": "basics/diff-arr/diff-arr-dim1.md"
+    },
+    {
+      "basename": "prefix-sum-dim2",
+      "path": "basics/prefix-sum/prefix-sum-dim2.md"
+    },
+    {
+      "basename": "prefix-sum-dim1",
+      "path": "basics/prefix-sum/prefix-sum-dim1.md"
+    },
+    {
+      "basename": "index",
+      "path": "basics/prefix-sum/index.md"
+    },
+    {
+      "basename": "mono-queue",
+      "path": "data-structure/static-queue/mono-queue.md"
+    },
+    {
       "basename": "index",
       "path": "basics/bit-compress/index.md"
     },
@@ -65,20 +113,12 @@
       "path": "basics/unique/index.md"
     },
     {
-      "basename": "mono-queue",
-      "path": "data-structure/static-queue/mono-queue.md"
-    },
-    {
       "basename": "mono-stack",
       "path": "data-structure/static-stack/mono-stack.md"
     },
     {
       "basename": "index",
       "path": "data-structure/about/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "data-structure/static-queue/index.md"
     },
     {
       "basename": "index",
@@ -99,18 +139,6 @@
     {
       "basename": "merge-sort",
       "path": "basics/sorting/merge-sort.md"
-    },
-    {
-      "basename": "prefix-sum-dim2",
-      "path": "basics/prefix-sum/prefix-sum-dim2.md"
-    },
-    {
-      "basename": "prefix-sum-dim1",
-      "path": "basics/prefix-sum/prefix-sum-dim1.md"
-    },
-    {
-      "basename": "diff-arr-dim1",
-      "path": "basics/diff-arr/diff-arr-dim1.md"
     },
     {
       "basename": "5.有限自动机",
@@ -171,34 +199,6 @@
     {
       "basename": "文字版简历",
       "path": "Internship/文字版简历.md"
-    },
-    {
-      "basename": "有用的网站",
-      "path": "DesignResources/有用的网站.md"
-    },
-    {
-      "basename": "测试-第一篇文稿",
-      "path": "ObisidianUsages/测试-第一篇文稿.md"
-    },
-    {
-      "basename": "技术相关资源",
-      "path": "Gatelligence/技术相关资源.md"
-    },
-    {
-      "basename": "exp1",
-      "path": "ClassNotes/OSDesign/exp1.md"
-    },
-    {
-      "basename": "class1",
-      "path": "ClassNotes/OSDesign/class1.md"
-    },
-    {
-      "basename": "CI-16",
-      "path": "English/Listening/CI-16.md"
-    },
-    {
-      "basename": "English Homepage",
-      "path": "English/English Homepage.md"
     }
   ],
   "omittedPaths": [],

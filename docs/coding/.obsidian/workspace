@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "basics/bit-compress/index.md",
+            "file": "basics/double-pointer/solutions.md",
             "mode": "source",
             "source": false
           }
@@ -41,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#网课",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basics/bit-compress/index.md"
+                "file": "basics/double-pointer/solutions.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basics/bit-compress/index.md",
+                "file": "basics/double-pointer/solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
   },
   "active": "a8e79e490f2ac2e5",
   "lastOpenFiles": [
-    "basics/bit-compress/index.md",
-    "cold-knowledge/stl.md",
-    "cold-knowledge/index.md",
-    "Home.md",
-    "basics/string-matching/string-hash.md",
-    "data-structure/static-hash-table/index.md",
-    "data-structure/union-find/element-count.md",
-    "data-structure/union-find/index.md",
-    "data-structure/union-find/union-by-height.md",
-    "data-structure/union-find/path-compress.md"
+    "basics/double-pointer/solutions.md",
+    "data-structure/static-graph/linked-star.md",
+    "data-structure/static-graph/index.md",
+    "data-structure/static-queue/index.md",
+    "basics/discretization/index.md",
+    "basics/double-pointer/index.md",
+    "basics/diff-arr/diff-arr-dim2.md",
+    "basics/diff-arr/diff-arr-dim1.md",
+    "basics/prefix-sum/prefix-sum-dim2.md",
+    "basics/prefix-sum/prefix-sum-dim1.md"
   ]
 }

@@ -34,6 +34,7 @@ nav:
         - '高精度除法' : 'coding/basics/high-precision/high-precision-div.md'
       - '双指针': 
         - 'coding/basics/double-pointer/index.md'
+        - '题解' : 'coding/basics/double-pointer/solutions.md'
       - '前缀和':
         - 'coding/basics/prefix-sum/index.md'
         - '一维前缀和' : 'coding/basics/prefix-sum/prefix-sum-dim1.md'
@@ -69,6 +70,9 @@ nav:
         - coding/data-structure/static-heap/index.md
       - '静态哈希表':
         - coding/data-structure/static-hash-table/index.md
+      - '图':
+        - coding/data-structure/static-graph/index.md
+        - '链式前向星': 'coding/data-structure/static-graph/linked-star.md'
     - '冷知识🧊': 
       - coding/cold-knowledge/index.md
       - 'STL的那些事': 'coding/cold-knowledge/stl.md'
